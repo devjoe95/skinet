@@ -1,0 +1,5 @@
+/API/API.csproj
+obj
+bin
+appsettings.json
+*.h2.db
